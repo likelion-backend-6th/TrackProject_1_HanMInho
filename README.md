@@ -84,3 +84,11 @@
 ### **내 대출 목록 페이지**
 
 - 사용자가 대출한 도서의 리스트와 각 도서의 반납 예정일 정보 등을 표시한다.
+
+## main project library
+## 회원 관련 앱 accounts
+- 로그인 (css 없이 기능 완료 database문제 및 LOGIN_REDIECT_URL문제로 해결지연 완료 09/05)
+- 로그아웃 (css 없이 기능 완료 database문제 및 LOGIN_REDIECT_URL문제로 해결지연 완료 09/05)
+- css 작업 중(이쁘게)
+- 사용자 등록
+## 도서 관련 앱 books
